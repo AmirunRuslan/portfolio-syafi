@@ -13,3 +13,6 @@
 
 
 5. Git dan Guthub
+
+
+6.delete windows
